@@ -1,4 +1,4 @@
-# Company Financial Tree Simulation
+# Company Financial Tree Simulation - OOP
 
 This project simulates a system for managing and comparing companies and their financial data within a hierarchical structure. It includes a `Company` class representing individual companies, a `CompanyNode` class for companies within a tree (which can have parent and subsidiary relationships), and a `CompanyTree` class to represent the entire tree structure.
 
